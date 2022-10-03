@@ -321,7 +321,7 @@ header h3 {
 }
 
 @media (max-width: 659px) {
-    #content article img, > .greybar {
+    #content article img> .greybar {
         display: none;
     }
 }
